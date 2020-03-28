@@ -36,7 +36,3 @@ def make_mines(size):
 
 make_mines(MINE_COUNT)
 show_mines()
-
-
-
-
